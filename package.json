@@ -2,7 +2,7 @@
   "name": "notepad",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anonlatte.github.io/notepad-react",
+  "homepage": "https://anonlatte.github.io/Notepad-React",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
